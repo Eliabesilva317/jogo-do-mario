@@ -1,5 +1,5 @@
 # jogo-do-mario
-> > Desenvolvido com HTML, CSS, Java-script
+> > Desenvolvido com HTML, CSS, Java-script. 
 > > Para pula os obstáculos clica em qual quer letra do seu teclado.
 
 ![preview](./.github/preview.png)
